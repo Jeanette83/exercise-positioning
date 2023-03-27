@@ -56,7 +56,8 @@ section {
 .col:nth-of-type(2) {
     background-color: rgb(239, 123, 239);
     position: relative;
-    left: 9.375rem;
+    left: 9.375rem;   /* moves it FROM the left by 9.375rem */
+    top: -100px; /* or bottom: 100px;  */
 }
 
 .col:last-of-type {
