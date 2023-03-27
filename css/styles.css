@@ -10,8 +10,17 @@ header {
     background-color: navy;
 }
 
+header svg {
+    width: 6.25rem;
+}
+
 header a {
     color: #fff;
     text-decoration: none;
     display: block;
+}
+
+.menu {
+    display: flex;
+    gap: 2%;
 }
