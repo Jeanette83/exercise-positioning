@@ -3,10 +3,13 @@
 .inner-container {
     max-width: 60rem;
     margin: auto;
+  
+}
+
+.flex-container {
     display: flex;
     justify-content: space-between;
 }
-
 
 header {
     background-color: navy;
@@ -24,5 +27,6 @@ header a {
 
 .menu {
     display: flex;
-    gap: 2%;
+    gap: 1rem;
 }
+
