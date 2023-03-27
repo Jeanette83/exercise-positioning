@@ -50,5 +50,13 @@ section {
 .col {
     width: 18.75rem;     /** Normally you'd NEVER add height, but to see these show up we will for this demo only*/
     height: 18.75rem;
-    background-color: rgb(243, 130, 243);
+    background-color: rgb(212, 184, 212);
+}
+
+.col:nth-of-type(2) {
+    background-color: rgb(239, 123, 239);
+}
+
+.col:last-of-type {
+    background-color: magenta;
 }
