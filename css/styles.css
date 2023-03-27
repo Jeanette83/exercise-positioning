@@ -66,3 +66,7 @@ section {
     left: 18.75rem;
     top: -12.5rem;
 }
+
+p {
+    margin-top: -6.25rem;
+}
