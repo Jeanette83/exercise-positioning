@@ -35,6 +35,9 @@ header a {
 h1 {
     position: absolute;
     top: 0;
-    left: -30px;
-   
+    left: -30px;   
+}
+
+section {
+    padding: 4.6875rem;
 }
