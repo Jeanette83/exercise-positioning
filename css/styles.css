@@ -62,4 +62,7 @@ section {
 
 .col:last-of-type {
     background-color: magenta;
+    position: relative;
+    left: 18.75rem;
+    top: -12.5rem;
 }
