@@ -1,5 +1,6 @@
 
-
+/*** relative positioning keeps the space it's in, but nudges it around that 
+/*** space according to the values. */
 .inner-container {
     max-width: 60rem;
     margin: auto;
