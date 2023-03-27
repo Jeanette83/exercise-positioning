@@ -3,6 +3,7 @@
 .inner-container {
     max-width: 60rem;
     margin: auto;
+    position: relative;
   
 }
 
@@ -34,5 +35,5 @@ header a {
 h1 {
     position: absolute;
     top: 0;
-    right: 2;
+    left: 0;
 }
