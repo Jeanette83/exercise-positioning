@@ -3,6 +3,8 @@
 .inner-container {
     max-width: 60rem;
     margin: auto;
+    display: flex;
+    justify-content: space-between;
 }
 
 
