@@ -36,6 +36,7 @@ header a {
     
     line-height: 3.75rem;
 }
+
 h1 {
     position: absolute;
     top: 0;
@@ -44,4 +45,10 @@ h1 {
 
 section {
     padding: 4.6875rem;
+}
+
+.col {
+    width: 18.75rem;     /** Normally you'd NEVER add height, but to see these show up we will for this demo only*/
+    height: 18.75rem;
+    background-color: rgb(243, 130, 243);
 }
